@@ -1,8 +1,11 @@
-export interface TodoListType {
+export interface TodoItemType {
   id: string;
   text: string;
 }
 
 export interface ToDoFormProps {
-  todos: TodoListType[];
+  todos: TodoItemType[];
+}
+export interface TodoProps {
+  data: TodoItemType;
 }
