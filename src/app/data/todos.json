@@ -1,20 +1,12 @@
 {
   "tasks": [
     {
-      "id": "1",
-      "text": "散歩"
+      "id": "67574b6f-fc9e-4db4-a79a-48dc52291f21",
+      "text": "Next.js"
     },
     {
-      "id": "2",
-      "text": "買い物"
-    },
-    {
-      "id": "3",
-      "text": "掃除"
-    },
-    {
-      "id": "c5325c9b-14d7-44d4-a7d8-c55a3bc85836",
-      "text": "test"
+      "id": "5d290fb1-6fbe-4e5e-a5fc-a43995691b7e",
+      "text": "TypeScript"
     }
   ]
 }
